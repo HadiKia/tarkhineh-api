@@ -6,7 +6,7 @@
       "price": 180000,
       "offer": 35,
       "discountedPrice": 117000,
-      "category": "Persian food",
+      "category": "غذاهای ایرانی",
       "description": "برنج سبزی کوفته لپه آرد نخودچی، گردو و زرشک و آلو پیاز",
       "image": "https://i.ibb.co/y5mNJxc/1.png",
       "slug": "کوفته-برنجی"
@@ -17,7 +17,7 @@
       "price": 105000,
       "offer": 10,
       "discountedPrice": 94500,
-      "category": "Persian food",
+      "category": "غذاهای ایرانی",
       "description": "بادمجان، کشک، نعناع خشک، مغز گردو، سیر، پیاز",
       "image": "https://i.ibb.co/6nP8zQz/2.png",
       "slug": "کشک-بادمجان"
@@ -28,7 +28,7 @@
       "price": 165000,
       "offer": 10,
       "discountedPrice": 148500,
-      "category": "Persian food",
+      "category": "غذاهای ایرانی",
       "description": "بادمجان، گوجه فرنگی، تخم مرغ، سیر، رب گوجه فرنگی",
       "image": "https://i.ibb.co/LQBMVg9/3.png",
       "slug": "میرزا-قاسمی"
@@ -39,7 +39,7 @@
       "price": 205000,
       "offer": 30,
       "discountedPrice": 143500,
-      "category": "Persian food",
+      "category": "غذاهای ایرانی",
       "description": "پاچ باقلا، شوید خشک، کره، سیر، تخم مرغ",
       "image": "https://i.ibb.co/FnC1xd9/4.png.",
       "slug": "باقلاقاتوق"
@@ -50,7 +50,7 @@
       "price": 90000,
       "offer": 10,
       "discountedPrice": 81000,
-      "category": "Persian food",
+      "category": "غذاهای ایرانی",
       "description": "نخود، پیاز، تخم گشنیز، سیر، جعفری، سیب زمینی",
       "image": "https://i.ibb.co/qB8VDsc/5.png",
       "slug": "فلافل"
@@ -61,7 +61,7 @@
       "price": 210000,
       "offer": 5,
       "discountedPrice": 199500,
-      "category": "Persian food",
+      "category": "غذاهای ایرانی",
       "description": "کشک، گردو، پیاز، نعناع خشک",
       "image": "https://i.ibb.co/xJfM2P6/6.png",
       "slug": "کله-جوش"
@@ -72,7 +72,7 @@
       "price": 170000,
       "offer": 22,
       "discountedPrice": 132600,
-      "category": "Persian food",
+      "category": "غذاهای ایرانی",
       "description": "بادمجان قلمی، ماست چکیده، سیر، روغن زیتون، مغز گردو",
       "image": "https://i.ibb.co/rk2hbzR/7.png",
       "slug": "بورانی-بادمجان"
@@ -83,7 +83,7 @@
       "price": 150000,
       "offer": 18,
       "discountedPrice": 123000,
-      "category": "Persian food",
+      "category": "غذاهای ایرانی",
       "description": "بادمجان، پیاز، گوجه فرنگی، سبزی خشک",
       "image": "https://i.ibb.co/mBx9v3K/8.png",
       "slug": "بادمجان-شکم-پر"
@@ -94,7 +94,7 @@
       "price": 220000,
       "offer": 8,
       "discountedPrice": 202400,
-      "category": "Persian food",
+      "category": "غذاهای ایرانی",
       "description": "کلم برگ، برنج، لپه پخته، پیاز، سبزی معطر، رب",
       "image": "https://i.ibb.co/LnjbcpY/9.png",
       "slug": "دلمه-برگ-کلم"
@@ -105,7 +105,7 @@
       "price": 240000,
       "offer": 20,
       "discountedPrice": 192000,
-      "category": "Persian food",
+      "category": "غذاهای ایرانی",
       "description": "پیاز، برنج، لپه، سبزی دلمه، سرکه",
       "image": "https://i.ibb.co/7V0dt4L/10.png",
       "slug": "دلمه-برگ-مو"
@@ -116,7 +116,7 @@
       "price": 300000,
       "offer": 10,
       "discountedPrice": 270000,
-      "category": "Persian food",
+      "category": "غذاهای ایرانی",
       "description": "تخم مرغ، گردو، سیر، آرد، روغن مایع، سبزی کوکویی",
       "image": "https://i.ibb.co/W6SjPBB/11.png",
       "slug": "کوکو-سبزی"
@@ -127,7 +127,7 @@
       "price": 135000,
       "offer": 20,
       "discountedPrice": 108000,
-      "category": "Persian food",
+      "category": "غذاهای ایرانی",
       "description": "عدس، سیب زمینی، پیاز متوسط، تخم مرغ، پودر سیر، آرد سوخاری",
       "image": "https://i.ibb.co/ysqpVLV/12.png",
       "slug": "کوکو-سیب-زمینی-و-عدس"
@@ -138,7 +138,7 @@
       "price": 175000,
       "offer": 20,
       "discountedPrice": 140000,
-      "category": "International food",
+      "category": "غذاهای غیر ایرانی",
       "description": "پاستا، قارچ، گوجه، کدوی خوردشده، پیاز خلالی‌شده",
       "image": "https://i.ibb.co/bBMNGsL/13.png",
       "slug": "پاستا-سبزیجات"
@@ -149,7 +149,7 @@
       "price": 170000,
       "offer": 12,
       "discountedPrice": 149600,
-      "category": "International food",
+      "category": "غذاهای غیر ایرانی",
       "description": "اسپاگتی، گوشت چرخ کرده، هویج، ساقه کرفس، گوجه فرنگی، سیر، پیاز، پنیر پارمزان، روغن زیتون",
       "image": "https://i.ibb.co/0M6nGYw/14.png",
       "slug": "پاستا-بلونز"
@@ -160,7 +160,7 @@
       "price": 180000,
       "offer": 45,
       "discountedPrice": 99000,
-      "category": "International food",
+      "category": "غذاهای غیر ایرانی",
       "description": "بادمجان، گوجه فرنگی، کدو سبز، پیاز، رب گوجه فرنگی، روغن زیتون، پنیر پارمزان",
       "image": "https://i.ibb.co/6y7tcyy/15.png",
       "slug": "راتاتویی"
@@ -171,7 +171,7 @@
       "price": 170000,
       "offer": 15,
       "discountedPrice": 144500,
-      "category": "International food",
+      "category": "غذاهای غیر ایرانی",
       "description": "لازانیا، قارچ، ریحان تازه، جعفری تازه، گوجه فرنگی، پنیر پیتزا، بادمجان",
       "image": "https://i.ibb.co/j4D2kHr/16.png",
       "slug": "لازانیا"
@@ -182,7 +182,7 @@
       "price": 100000,
       "offer": 15,
       "discountedPrice": 85000,
-      "category": "International food",
+      "category": "غذاهای غیر ایرانی",
       "description": "جلبک دریایی/ نوری، برنج کته، سرکه سفید (یا سرکه برنج)، شکر، نمک دریا",
       "image": "https://i.ibb.co/FmMbT64/17.png",
       "slug": "سوشی"
@@ -193,7 +193,7 @@
       "price": 125000,
       "offer": 8,
       "discountedPrice": 115000,
-      "category": "International food",
+      "category": "غذاهای غیر ایرانی",
       "description": "گرام ماسالا، پودر کاری، سیر له شده، ،گشنیز خرد شده",
       "image": "https://i.ibb.co/v45kDVJ/18.png",
       "slug": "پاکورا-سبزیجات"
@@ -204,7 +204,7 @@
       "price": 190000,
       "offer": 17,
       "discountedPrice": 157700,
-      "category": "International food",
+      "category": "غذاهای غیر ایرانی",
       "description": "اسفناج، قارچ، پنیر موزارلا یا پنیر پیتزا، پنیر ریکوتا یا پنیر خامه ای، پیاز، سیر، روغن زیتون",
       "image": "https://i.ibb.co/pWfyZS2/19.png",
       "slug": "کالزونه-اسفناج"
@@ -215,7 +215,7 @@
       "price": 200000,
       "offer": 15,
       "discountedPrice": 170000,
-      "category": "International food",
+      "category": "غذاهای غیر ایرانی",
       "description": "پنیر، اسفناج، گوجه، پیاز، سیر",
       "image": "https://i.ibb.co/QnjXKSY/20.png",
       "slug": "پالاک-پنیر"
@@ -226,7 +226,7 @@
       "price": 195000,
       "offer": 12,
       "discountedPrice": 171600,
-      "category": "Pizza",
+      "category": "پیتزاها",
       "description": "اسفناج، سبزی روکولا، آرد، پودر مایه خمیر، روغن زیتون، خردل، سیر، پنیر موزارلا و پارمسان، گوجه گیلاسی ،سس فلفل سبز تند",
       "image": "https://i.ibb.co/618SBnc/21.png",
       "slug": "پیتزا-روکولا"
@@ -237,7 +237,7 @@
       "price": 170000,
       "offer": 12,
       "discountedPrice": 149600,
-      "category": "Pizza",
+      "category": "پیتزاها",
       "description": "بادمجان کوچک، روغن زیتون، پنیر موزارلا، پنیر پارمزان، برگ ریحان، گوجه فرنگی، سس گوجه فرنگی",
       "image": "https://i.ibb.co/0qKXbtC/22.png",
       "slug": "پیتزا-بادمجان-و-زیتون"
@@ -248,7 +248,7 @@
       "price": 210000,
       "offer": 21,
       "discountedPrice": 165900,
-      "category": "Pizza",
+      "category": "پیتزاها",
       "description": "نخود فرنگی پخته شده، ذرت نیم پز، فلفل دلمه‌ای رنگی، قارچ، سیر یا پیازچه خردشده",
       "image": "https://i.ibb.co/82h8t6G/23.png",
       "slug": "پیتزا-سبزیجات-و-خامه"
@@ -259,7 +259,7 @@
       "price": 215000,
       "offer": 25,
       "discountedPrice": 161250,
-      "category": "Pizza",
+      "category": "پیتزاها",
       "description": "قارچ، فلفل دلمه ای، رب گوجه فرنگی، پودر سیر، آویشن، مرزه، پنیر پیتزا گیاهی",
       "image": "https://i.ibb.co/grcyhVj/24.png",
       "slug": "پیتزا-خامه"
@@ -270,7 +270,7 @@
       "price": 120000,
       "offer": 16,
       "discountedPrice": 100800,
-      "category": "Pizza",
+      "category": "پیتزاها",
       "description": "تافو، فلفل قرمز خشک شده، پودر دانه‌های خردل، دانه رازیانه، پاپریکا دودی، پودر سیر، شکر نارگیل، پودر بادیان رومی",
       "image": "https://i.ibb.co/f26HFTK/25.png",
       "slug": "پیتزا-پپرونی"
@@ -281,7 +281,7 @@
       "price": 280000,
       "offer": 10,
       "discountedPrice": 252000,
-      "category": "Pizza",
+      "category": "پیتزاها",
       "description": "اسفناج تازه، پیاز، سیر، پنیر پیتزا، قارچ",
       "image": "https://i.ibb.co/DW6ZChY/26.png",
       "slug": "پیتزا-اسفناج"
@@ -292,7 +292,7 @@
       "price": 165000,
       "offer": 13,
       "discountedPrice": 143550,
-      "category": "Pizza",
+      "category": "پیتزاها",
       "description": "گوجه فرنگی، ریحان، سیر، پنیر پیتزا",
       "image": "https://i.ibb.co/SRZCzrn/27.png",
       "slug": "پیتزا-مارگاریتا"
@@ -303,7 +303,7 @@
       "price": 125000,
       "offer": 16,
       "discountedPrice": 105000,
-      "category": "Pizza",
+      "category": "پیتزاها",
       "description": "نان پیتزا، پنیر پیتزا، سس باربیکیو، گوجه فرنگی، سس کچاپ، سیر، روغن زیتون",
       "image": "https://i.ibb.co/tKtMPKm/28.png",
       "slug": "پیتزا-پنیر"
@@ -314,7 +314,7 @@
       "price": 230000,
       "offer": 20,
       "discountedPrice": 184000,
-      "category": "Sandwich",
+      "category": "ساندویچ‌ها",
       "description": "سیب زمینی، لوبیا قرمز،  بلغور گندم، نعناع خشک، پودر زیره، پودر جوز هندی، گوجه فرنگی، روغن زیتون",
       "image": "https://i.ibb.co/gDGbW52/29.png",
       "slug": "ساندویچ-کتلت-مخصوص"
@@ -325,7 +325,7 @@
       "price": 205000,
       "offer": 20,
       "discountedPrice": 164000,
-      "category": "Sandwich",
+      "category": "ساندویچ‌ها",
       "description": "سوسیس گیاهی، پیاز، سیب زمینی،  رب گوجه فرنگی",
       "image": "https://i.ibb.co/0GDRbdD/30.png",
       "slug": "ساندویچ-سوسیس-کوکتل"
@@ -336,7 +336,7 @@
       "price": 165000,
       "offer": 12,
       "discountedPrice": 145200,
-      "category": "Sandwich",
+      "category": "ساندویچ‌ها",
       "description": "کدو سبز، هویج، سیب زمینی، پیاز",
       "image": "https://i.ibb.co/tQ6Zjvm/31.png",
       "slug": "ساندویچ-کوکتل-کدو-سبز"
@@ -347,7 +347,7 @@
       "price": 210000,
       "offer": 15,
       "discountedPrice": 178500,
-      "category": "Sandwich",
+      "category": "ساندویچ‌ها",
       "description": "قارچ، اسفناج، پیاز، پنیر پیتزا، خامه، پودر پاپریکا، گردو، سرکه بالزامیک، سس مایونز",
       "image": "https://i.ibb.co/fQrHMYQ/32.png",
       "slug": "پنینی-اسفناج"
